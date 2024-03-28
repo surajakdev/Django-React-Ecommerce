@@ -1,2 +1,2 @@
 # Django-React-Ecommerce
-## Take branch named "Ecomm" for code.
+## Take branch named "Ecomm" for readme and code.
